@@ -168,7 +168,7 @@ Deep learning for computer vision & medical image classification.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=allen745&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=ED1C24&text_color=ffffff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=allen745&hide_border=true&background=0D1117&ring=ED1C24&fire=FFD700&currStreakLabel=FFD700" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=allen745&hide_border=true&background=0D1117&ring=ED1C24&fire=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FFFFFF&dates=B0B0B0" height="165"/>
 </div>
 
 <div align="center">
