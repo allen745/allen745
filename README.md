@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED1C24,100:FFD700&height=220&section=header&text=ALLEN%20STIVANSON%20CHRISTIAN&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Patent%20Holder&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED1C24,100:FFD700&height=220&section=header&text=ALLEN%20STIVANSON%20CHRISTIAN&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Patent%20Holder&descAlignY=55&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FFD700&center=true&vCenter=true&width=650&lines=Building%20AI%20Agents%20%E2%9A%A1;Shipping%20ML%20Models%20to%20Production%20%F0%9F%9A%80;Python%20%2B%20DSA%2C%20Every%20Single%20Day%20%F0%9F%94%A5;Patent%20Holder%20%7C%20Full-Stack%20Dev%20%F0%9F%92%BB" alt="typing-svg"/>
 
