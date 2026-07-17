@@ -12,66 +12,139 @@
 
 <br>
 
-```
-              ╔═══════════════╗                    allen745@github
-              ║  ╭─────────╮  ║                     ─────────────────────────────────
-           ═══╣  │  A   I  │  ╠═══                   OS ................ Web / Cloud
-              ║  │ ┌─────┐ │  ║                       Host ............... Anand, India
-           ═══╣  │ │  ⚡ │ │  ╠═══                    Uptime .............. B.Tech, AI & Data Science
-              ║  │ └─────┘ │  ║                       Role ................ AI/ML Engineer, Full-Stack Dev
-           ═══╣  │  M   L  │  ╠═══                    Credential .......... Design Patent Holder
-              ║  ╰─────────╯  ║                       IDE ................. VS Code
-              ╚═══════════════╝
-                                                       Languages.Core ...... Python, JavaScript, Java
-                                                       Languages.Web ....... HTML, CSS
+```bash
+allen745@dev:~$ whoami
+> Allen Stivanson Christian — AI & ML Engineer / Full-Stack Developer
 
-                                                       Stack.ML ............ TensorFlow, Keras, scikit-learn
-                                                       Stack.Backend ........ FastAPI, PostgreSQL, SQLAlchemy
-                                                       Stack.Frontend ....... React, Tailwind CSS
-                                                       Stack.AI/LLM ......... GPT-4o, Llama 3, Groq AI, MS Foundry IQ
+allen745@dev:~$ cat mission.txt
+> Building AI agents that reason, SaaS that scales,
+> and models that actually make it to production.
 
-                                                       Currently Building ... DevMind AI (UI redesign), Portfolio
-
-                                                       Contact.Email ........ cstivansonp@gmail.com
-                                                       Contact.GitHub ....... allen745
-                                                       ─────────────────────────────────────────
+allen745@dev:~$ status --check
+  [ONLINE]  Patent Holder
+  [ONLINE]  25+ repositories shipped
+  [ONLINE]  Python + DSA streak — active
+  [CRITICAL] Caffeine levels
 ```
 
 <br>
 
-## 💫 About Me
+## ⚡ About Me
 
-#### 🛰️ Currently working on
-Redesigning the UI for **DevMind AI**, and rebuilding my **personal developer portfolio**
+```yaml
+role: AI & ML Engineer | Full-Stack Developer
+education: B.Tech, AI & Data Science
+credential: Design Patent Holder
+focus: AI Reasoning Agents · FinTech SaaS · Deep Learning
+habit: Python + DSA — daily, no excuses
+location: Anand, India
+contact: cstivansonp@gmail.com
+```
 
-#### 🤝 Looking to collaborate on
-AI reasoning agents, FinTech SaaS platforms, or developer tooling
-
-#### 🎗️ Looking for help with
-*(edit this — e.g. a specific stack gap, or a project you're stuck on)*
-
-#### 🌱 Currently learning
-*(edit this — e.g. a framework, concept, or exam prep you're doing)*
-
-#### 💬 Ask me about
-AI agent architecture, GitHub repo health analysis, shipping ML models to production, or FinTech SaaS backends
-
-#### ⚡ Fun fact
-*(edit this — a one-liner about a project that went sideways or a fun dev story)*
+🔭 **Currently:** redesigning the UI for **DevMind AI**, and building out my personal developer portfolio site
+🧠 **Always:** training something, breaking something, fixing something
 
 <br>
 
-## 🚀 Featured Projects
+## 🛠️ Tech Arsenal
 
-| Project | What it does |
-|---|---|
-| **[DevMind AI](https://devmind-ai-topaz.vercel.app/)** | AI-powered SaaS for developers — automated code reviews, bug fixing, auto-documentation, complexity analysis |
-| **[DevMind Agent](https://devmind-agent.onrender.com/)** | Multi-step AI reasoning agent for GitHub repo health analysis — built for the Microsoft Agents League Hackathon |
-| **CA-SaaS** | B2B FinTech SaaS for chartered accountants, built to serve 200,000+ CS professionals |
-| **MarketMind AI** | Stock market analysis platform with data-driven, sentiment-aware insights |
-| **ml-models-portfolio** | 16 foundational ML projects — regression, classification, NLP |
-| **dl-models-portfolio** | Deep learning for computer vision & medical image classification |
-| **[Portfolio](https://portfolio-demo-tan-six.vercel.app/)** | Personal developer portfolio — in active rebuild |
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css,react,nodejs,fastapi,tailwind,postgres,git,vercel,tensorflow&theme=dark" alt="skills"/>
+</div>
+
+<div align="center">
+
+![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Llama3](https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge)
+![Foundry](https://img.shields.io/badge/MS_Foundry_IQ-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+</div>
+
+<br>
+
+## 🎯 Featured Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 [DevMind AI](https://devmind-ai-topaz.vercel.app/)
+`[ LIVE · DEPLOYED ]`
+
+AI-powered SaaS for developers — automated code reviews, instant bug fixing, auto-documentation, complexity analysis, commit-message generation. Supports Python, JS, Java, C++, HTML/CSS.
+
+`React · Tailwind · FastAPI · Groq AI · PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [DevMind Agent](https://devmind-agent.onrender.com/)
+`[ LIVE · HACKATHON BUILD ]`
+
+Multi-step AI reasoning agent for GitHub repo health analysis, built for the **Microsoft Agents League Hackathon**.
+
+`Python · GPT-4o · Llama 3.3 · Foundry IQ`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 CA-SaaS
+`[ B2B · FINTECH ]`
+
+FinTech SaaS for chartered accountants, built to serve **200,000+ CS professionals** — automated accounting, anomaly detection, financial document text extraction, AI assistant.
+
+`FastAPI · PostgreSQL · JWT · Llama 3 · Groq AI`
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 MarketMind AI
+`[ FINTECH · DASHBOARD ]`
+
+Stock market analysis platform visualizing market indicators, trends, and sentiment-driven insights.
+
+`Vanilla JavaScript · Financial Charting`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 ml-models-portfolio
+`[ 16 PROJECTS ]`
+
+Foundational ML across regression, classification, and NLP.
+
+`Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ dl-models-portfolio
+`[ COMPUTER VISION · MEDICAL ]`
+
+Deep learning for computer vision & medical image classification.
+
+`TensorFlow · Keras · CNNs`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🌐 [Portfolio](https://portfolio-demo-tan-six.vercel.app/)
+`[ IN PROGRESS · LIVE PREVIEW ]`
+
+Personal developer portfolio site — actively being rebuilt and redesigned.
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -101,36 +174,7 @@ AI agent architecture, GitHub repo health analysis, shipping ML models to produc
 
 <br>
 
-## 💻 Tech Stack
-
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=python,js,java,html,css&theme=dark"/></p>
-
-**Frameworks & Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,tailwind,fastapi,nodejs&theme=dark"/></p>
-
-**ML / DL / Data**
-<p><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/></p>
-
-**Applied AI / LLM**
-<p>
-<img src="https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MS_Foundry_IQ-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</p>
-
-**Databases**
-<p><img src="https://skillicons.dev/icons?i=postgres&theme=dark"/></p>
-
-**VCS & Deployment**
-<p><img src="https://skillicons.dev/icons?i=git,vercel&theme=dark"/></p>
-
-<br>
-
-## 📊 GitHub Stats
+## 📊 Live Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=allen745&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=ED1C24&text_color=ffffff&cache_seconds=86400" height="165"/>
@@ -141,22 +185,8 @@ AI agent architecture, GitHub repo health analysis, shipping ML models to produc
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allen745&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=ffffff&cache_seconds=86400" height="165"/>
 </div>
 
-### 🏆 GitHub Trophies
-
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=allen745&theme=radical&no-frame=true&row=1&column=7&margin-w=6" />
-</div>
-
-### ✍️ Random Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote"/>
-</div>
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=allen745&repo=DEVMIND-AGENT&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=ED1C24&text_color=ffffff&cache_seconds=86400" />
 </div>
 
 <br>
@@ -172,7 +202,7 @@ AI agent architecture, GitHub repo health analysis, shipping ML models to produc
 
 <br>
 
-Needs a tiny GitHub Action on your `allen745/allen745` repo. First, enable **Settings → Actions → General → Workflow permissions → Read and write permissions**. Then add `.github/workflows/snake.yml`:
+This needs a tiny GitHub Action running on your `allen745/allen745` repo to generate the animation. Add this file as `.github/workflows/snake.yml`:
 
 ```yaml
 name: Generate Snake
@@ -200,9 +230,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Run it once manually from the Actions tab, and the snake will populate automatically after that.
+Run it once manually from the Actions tab, and the snake image above will populate automatically after that.
 
 </details>
+
+<br>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote"/>
+</div>
 
 <br>
 
