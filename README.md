@@ -81,8 +81,8 @@ AI-powered SaaS for developers — automated code reviews, instant bug fixing, a
 </td>
 <td width="50%" valign="top">
 
-### 🤖 DevMind Agent
-`[ HACKATHON BUILD ]`
+### 🤖 [DevMind Agent](https://devmind-agent.onrender.com/)
+`[ LIVE · HACKATHON BUILD ]`
 
 Multi-step AI reasoning agent for GitHub repo health analysis, built for the **Microsoft Agents League Hackathon**.
 
@@ -134,6 +134,16 @@ Deep learning for computer vision & medical image classification.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🌐 [Portfolio](https://portfolio-demo-tan-six.vercel.app/)
+`[ IN PROGRESS · LIVE PREVIEW ]`
+
+Personal developer portfolio site — actively being rebuilt and redesigned.
+
+</td>
+</tr>
 </table>
 
 <br>
@@ -167,12 +177,12 @@ Deep learning for computer vision & medical image classification.
 ## 📊 Live Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=allen745&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=ED1C24&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=allen745&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=ED1C24&text_color=ffffff&cache_seconds=86400" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=allen745&hide_border=true&background=0D1117&ring=ED1C24&fire=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FFFFFF&dates=B0B0B0" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allen745&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allen745&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=ffffff&cache_seconds=86400" height="165"/>
 </div>
 
 <div align="center">
