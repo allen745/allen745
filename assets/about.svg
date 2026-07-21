@@ -46,13 +46,13 @@
     <text x="40" y="186" fill="#8B949E" opacity="0">
       <tspan fill="#3FB950">focus</tspan>
       <tspan fill="#8B949E">: </tspan>
-      <tspan fill="#58A6FF">AI Reasoning Agents · FinTech SaaS · Deep Learning</tspan>
+      <tspan fill="#58A6FF">AI Reasoning Agents | FinTech SaaS | Deep Learning</tspan>
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.95s" fill="freeze"/>
     </text>
     <text x="40" y="218" fill="#8B949E" opacity="0">
       <tspan fill="#3FB950">habit</tspan>
       <tspan fill="#8B949E">: </tspan>
-      <tspan fill="#E6EDF3">Python + DSA  daily, no excuses</tspan>
+      <tspan fill="#E6EDF3">Python + DSA - daily, no excuses</tspan>
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.2s" fill="freeze"/>
     </text>
     <text x="40" y="250" fill="#8B949E" opacity="0">

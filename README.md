@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="./assets/status-hud.svg" width="100%" alt="Live status HUD"/>
+<img src="https://raw.githubusercontent.com/allen745/allen745/main/assets/status-hud.svg" width="100%" alt="Live status HUD"/>
 
 </div>
 
@@ -22,13 +22,13 @@
 
 <!-- ============ TERMINAL ============ -->
 <div align="center">
-<img src="./assets/terminal.svg" width="100%" alt="Animated developer terminal"/>
+<img src="https://raw.githubusercontent.com/allen745/allen745/main/assets/terminal.svg" width="100%" alt="Animated developer terminal"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/allen745/allen745/main/assets/divider.svg" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -37,7 +37,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="" width="28"/> About Me
 
 <div align="center">
-<img src="./assets/about.svg" width="100%" alt="Animated about panel"/>
+<img src="https://raw.githubusercontent.com/allen745/allen745/main/assets/about.svg" width="100%" alt="Animated about panel"/>
 </div>
 
 <br/>
@@ -55,7 +55,7 @@
 <br/>
 
 <div align="center">
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/allen745/allen745/main/assets/divider.svg" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -84,7 +84,7 @@
 <br/>
 
 <div align="center">
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/allen745/allen745/main/assets/divider.svg" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -174,7 +174,7 @@ Personal developer portfolio site — actively being rebuilt and redesigned.
 <br/>
 
 <div align="center">
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/allen745/allen745/main/assets/divider.svg" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -207,7 +207,7 @@ Personal developer portfolio site — actively being rebuilt and redesigned.
 <br/>
 
 <div align="center">
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/allen745/allen745/main/assets/divider.svg" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -216,27 +216,29 @@ Personal developer portfolio site — actively being rebuilt and redesigned.
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="" width="28"/> Live Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=allen745&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=ED1C24&text_color=ffffff&ring_color=ED1C24&cache_seconds=86400" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=allen745&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=ED1C24&text_color=ffffff&ring_color=ED1C24&cache_seconds=86400" alt="GitHub stats"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=allen745&hide_border=true&background=0D1117&ring=ED1C24&fire=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FFFFFF&dates=B0B0B0" alt="GitHub streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allen745&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=ffffff&cache_seconds=86400" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=allen745&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=ffffff&cache_seconds=86400" alt="Top languages"/>
 <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=allen745&bg_color=0D1117&color=FFD700&line=ED1C24&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=allen745&theme=radical&no-frame=true&row=1&column=7&margin-w=6" alt="Trophies"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allen745&theme=radical" alt="Profile stats card"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allen745&theme=radical" alt="Repos per language"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allen745&theme=radical" alt="Most commit language"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/allen745/allen745/main/assets/divider.svg" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -245,21 +247,17 @@ Personal developer portfolio site — actively being rebuilt and redesigned.
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="" width="28"/> The Snake Eats My Contributions
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allen745/allen745/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allen745/allen745/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/allen745/allen745/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img alt="snake animation" src="https://cdn.jsdelivr.net/gh/allen745/allen745@output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 <details>
-<summary><b>⚙️ Snake not showing? One-time activate</b></summary>
+<summary><b>⚙️ Snake not showing? Refresh it</b></summary>
 
 <br/>
 
-1. Merge this PR (workflow file: `.github/workflows/snake.yml`)
-2. Open **Actions → Generate Snake → Run workflow**
-3. Wait ~1 minute — the animation above will populate automatically
+1. Open **Actions → Generate Snake → Run workflow**
+2. Wait ~1 minute, then hard-refresh the profile page
+3. Image source: `cdn.jsdelivr.net/gh/allen745/allen745@output/...`
 
 </details>
 
