@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="Animated about me panel">
+  <defs>
+    <linearGradient id="edge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ED1C24">
+        <animate attributeName="stop-color" values="#ED1C24;#FFD700;#ED1C24" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FFD700">
+        <animate attributeName="stop-color" values="#FFD700;#ED1C24;#FFD700" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="318" rx="16" fill="#0D1117" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="18" y="18" width="864" height="36" rx="8" fill="#161B22"/>
+  <circle cx="40" cy="36" r="5" fill="#ED1C24">
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="58" y="41" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#FFD700">about.allen.yaml</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">
+    <text x="40" y="90" fill="#8B949E">
+      <tspan fill="#3FB950">role</tspan>
+      <tspan fill="#8B949E">: </tspan>
+      <tspan fill="#58A6FF">AI &amp; ML Engineer | Full-Stack Developer</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.2s" fill="freeze"/>
+    </text>
+    <text x="40" y="122" fill="#8B949E" opacity="0">
+      <tspan fill="#3FB950">education</tspan>
+      <tspan fill="#8B949E">: </tspan>
+      <tspan fill="#58A6FF">B.Tech, AI &amp; Data Science</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.45s" fill="freeze"/>
+    </text>
+    <text x="40" y="154" fill="#8B949E" opacity="0">
+      <tspan fill="#3FB950">credential</tspan>
+      <tspan fill="#8B949E">: </tspan>
+      <tspan fill="#FFD700">Design Patent Holder</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.7s" fill="freeze"/>
+    </text>
+    <text x="40" y="186" fill="#8B949E" opacity="0">
+      <tspan fill="#3FB950">focus</tspan>
+      <tspan fill="#8B949E">: </tspan>
+      <tspan fill="#58A6FF">AI Reasoning Agents · FinTech SaaS · Deep Learning</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.95s" fill="freeze"/>
+    </text>
+    <text x="40" y="218" fill="#8B949E" opacity="0">
+      <tspan fill="#3FB950">habit</tspan>
+      <tspan fill="#8B949E">: </tspan>
+      <tspan fill="#E6EDF3">Python + DSA  daily, no excuses</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.2s" fill="freeze"/>
+    </text>
+    <text x="40" y="250" fill="#8B949E" opacity="0">
+      <tspan fill="#3FB950">location</tspan>
+      <tspan fill="#8B949E">: </tspan>
+      <tspan fill="#E6EDF3">Anand, India</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.45s" fill="freeze"/>
+    </text>
+    <text x="40" y="282" fill="#8B949E" opacity="0">
+      <tspan fill="#3FB950">contact</tspan>
+      <tspan fill="#8B949E">: </tspan>
+      <tspan fill="#FFD700" filter="url(#glow)">cstivansonp@gmail.com</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.7s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
