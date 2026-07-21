@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-label="Animated developer terminal">
+  <defs>
+    <linearGradient id="chrome" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ED1C24"/>
+      <stop offset="100%" stop-color="#FFD700"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFD700" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#ED1C24" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="screen">
+      <rect x="18" y="52" width="864" height="350" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <!-- Window chrome -->
+  <rect x="0" y="0" width="900" height="420" rx="16" fill="#0D1117"/>
+  <rect x="0" y="0" width="900" height="42" rx="16" fill="#161B22"/>
+  <rect x="0" y="26" width="900" height="16" fill="#161B22"/>
+  <circle cx="28" cy="21" r="7" fill="#FF5F56"/>
+  <circle cx="52" cy="21" r="7" fill="#FFBD2E"/>
+  <circle cx="76" cy="21" r="7" fill="#27C93F"/>
+  <text x="450" y="26" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#8B949E">allen745@dev  zsh</text>
+  <rect x="0" y="42" width="900" height="3" fill="url(#chrome)"/>
+
+  <!-- Screen -->
+  <rect x="12" y="48" width="876" height="360" rx="12" fill="#010409" stroke="#30363D" stroke-width="1"/>
+
+  <g clip-path="url(#screen)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <!-- Scanline sweep -->
+    <rect x="18" y="-80" width="864" height="80" fill="url(#scan)" opacity="0.9">
+      <animate attributeName="y" values="-80;420;-80" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Prompt 1 -->
+    <text x="36" y="90" font-size="16" fill="#3FB950">allen745@dev</text>
+    <text x="168" y="90" font-size="16" fill="#8B949E">:</text>
+    <text x="178" y="90" font-size="16" fill="#58A6FF">~</text>
+    <text x="196" y="90" font-size="16" fill="#C9D1D9">$</text>
+    <text x="216" y="90" font-size="16" fill="#FFD700">
+      <tspan>whoami</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.05;0.08" dur="14s" repeatCount="indefinite"/>
+    </text>
+    <text x="36" y="122" font-size="15" fill="#E6EDF3">
+      <tspan fill="#ED1C24">&gt;</tspan>
+      <tspan dx="8">Allen Stivanson Christian  AI &amp; ML Engineer / Full-Stack Developer</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.12;0.16" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Prompt 2 -->
+    <text x="36" y="168" font-size="16" fill="#3FB950">
+      <tspan>allen745@dev</tspan>
+      <tspan fill="#8B949E">:</tspan>
+      <tspan fill="#58A6FF">~</tspan>
+      <tspan fill="#C9D1D9">$ </tspan>
+      <tspan fill="#FFD700">cat mission.txt</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.22;0.26" dur="14s" repeatCount="indefinite"/>
+    </text>
+    <text x="36" y="200" font-size="15" fill="#E6EDF3">
+      <tspan fill="#ED1C24">&gt;</tspan>
+      <tspan dx="8">Building AI agents that reason, SaaS that scales,</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.30;0.34" dur="14s" repeatCount="indefinite"/>
+    </text>
+    <text x="36" y="228" font-size="15" fill="#E6EDF3">
+      <tspan fill="#ED1C24">&gt;</tspan>
+      <tspan dx="8">and models that actually make it to production.</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.36;0.40" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Prompt 3 -->
+    <text x="36" y="274" font-size="16" fill="#3FB950">
+      <tspan>allen745@dev</tspan>
+      <tspan fill="#8B949E">:</tspan>
+      <tspan fill="#58A6FF">~</tspan>
+      <tspan fill="#C9D1D9">$ </tspan>
+      <tspan fill="#FFD700">status --check</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.46;0.50" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="48" y="310" font-size="15" fill="#3FB950">
+      <tspan>[ONLINE]</tspan>
+      <tspan dx="12" fill="#E6EDF3">Patent Holder</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.54;0.58" dur="14s" repeatCount="indefinite"/>
+    </text>
+    <text x="48" y="338" font-size="15" fill="#3FB950">
+      <tspan>[ONLINE]</tspan>
+      <tspan dx="12" fill="#E6EDF3">25+ repositories shipped</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.60;0.64" dur="14s" repeatCount="indefinite"/>
+    </text>
+    <text x="48" y="366" font-size="15" fill="#3FB950">
+      <tspan>[ONLINE]</tspan>
+      <tspan dx="12" fill="#E6EDF3">Python + DSA streak  active</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.66;0.70" dur="14s" repeatCount="indefinite"/>
+    </text>
+    <text x="48" y="394" font-size="15" fill="#ED1C24">
+      <tspan>[CRITICAL]</tspan>
+      <tspan dx="12" fill="#FFD700">Caffeine levels</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0.35;1" keyTimes="0;0.72;0.76;0.88;0.94;1" dur="14s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Blinking cursor -->
+    <rect x="216" y="76" width="10" height="18" fill="#FFD700">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="216;216;280;280;280;360;360;360;360;360;360;360;360;360;360;360;360;360;360;360;216"
+               keyTimes="0;0.05;0.08;0.12;0.16;0.22;0.26;0.30;0.34;0.36;0.40;0.46;0.50;0.54;0.58;0.60;0.72;0.90;0.98;1"
+               dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="76;76;76;76;108;154;154;186;214;214;214;260;260;296;324;352;380;380;76;76"
+               keyTimes="0;0.05;0.08;0.12;0.16;0.22;0.26;0.30;0.34;0.36;0.40;0.46;0.50;0.54;0.58;0.60;0.72;0.90;0.98;1"
+               dur="14s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

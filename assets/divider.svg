@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="28" viewBox="0 0 900 28" role="img" aria-label="Animated section divider">
+  <defs>
+    <linearGradient id="beam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ED1C24" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ED1C24"/>
+      <stop offset="55%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#FFD700" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="2.8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <line x1="40" y1="14" x2="860" y2="14" stroke="#30363D" stroke-width="2"/>
+  <rect x="0" y="10" width="180" height="8" rx="4" fill="url(#beam)">
+    <animate attributeName="x" values="-180;900" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="450" cy="14" r="4" fill="#FFD700">
+    <animate attributeName="r" values="3;6;3" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
