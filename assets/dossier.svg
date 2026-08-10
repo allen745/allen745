@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360" role="img" aria-label="Allen Christian dossier">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d4b48a">
+        <animate attributeName="stop-color" values="#d4b48a;#8eb8c4;#d4b48a" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7ec8b8">
+        <animate attributeName="stop-color" values="#7ec8b8;#d4b48a;#7ec8b8" dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1098" height="358" rx="14" fill="#06080d" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="20" y="20" width="1060" height="40" rx="8" fill="#10151f"/>
+  <circle cx="44" cy="40" r="5" fill="#d4b48a">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="62" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#f2f0ea">dossier.asc.yaml</text>
+  <text x="900" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#8eb8c4">v2026.ship</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">
+    <text x="48" y="100" fill="#6f7888" opacity="0">
+      <tspan fill="#7ec8b8">role</tspan><tspan fill="#6f7888">: </tspan><tspan fill="#f2f0ea">AI and Data Science Engineer</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.15s" fill="freeze"/>
+    </text>
+    <text x="48" y="132" fill="#6f7888" opacity="0">
+      <tspan fill="#7ec8b8">education</tspan><tspan fill="#6f7888">: </tspan><tspan fill="#f2f0ea">B.Tech AI and Data Science - ADIT, CVM University</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.35s" fill="freeze"/>
+    </text>
+    <text x="48" y="164" fill="#6f7888" opacity="0">
+      <tspan fill="#7ec8b8">credential</tspan><tspan fill="#6f7888">: </tspan><tspan fill="#d4b48a">Govt of India Design Patent 450815-001</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.55s" fill="freeze"/>
+    </text>
+    <text x="48" y="196" fill="#6f7888" opacity="0">
+      <tspan fill="#7ec8b8">focus</tspan><tspan fill="#6f7888">: </tspan><tspan fill="#f2f0ea">FastAPI backends  |  LLM agents  |  products in real workflows</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.75s" fill="freeze"/>
+    </text>
+    <text x="48" y="228" fill="#6f7888" opacity="0">
+      <tspan fill="#7ec8b8">shipping</tspan><tspan fill="#6f7888">: </tspan><tspan fill="#8eb8c4">DevMind  |  CA SaaS  |  Vertex  |  cinematic portfolio</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.95s" fill="freeze"/>
+    </text>
+    <text x="48" y="260" fill="#6f7888" opacity="0">
+      <tspan fill="#7ec8b8">habit</tspan><tspan fill="#6f7888">: </tspan><tspan fill="#f2f0ea">clean APIs, measurable results, end-to-end delivery</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.35s" begin="1.15s" fill="freeze"/>
+    </text>
+    <text x="48" y="292" fill="#6f7888" opacity="0">
+      <tspan fill="#7ec8b8">location</tspan><tspan fill="#6f7888">: </tspan><tspan fill="#f2f0ea">Anand / Gujarat, India</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.35s" begin="1.35s" fill="freeze"/>
+    </text>
+    <text x="48" y="324" fill="#6f7888" opacity="0">
+      <tspan fill="#7ec8b8">contact</tspan><tspan fill="#6f7888">: </tspan><tspan fill="#d4b48a">allenschristian07@gmail.com</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.35s" begin="1.55s" fill="freeze"/>
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="280" viewBox="0 0 1100 280" role="img" aria-label="Allen Christian ship log masthead">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#06080d"/>
+      <stop offset="55%" stop-color="#10151f"/>
+      <stop offset="100%" stop-color="#1a2030"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8eb8c4" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#d4b48a"/>
+      <stop offset="100%" stop-color="#7ec8b8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#2a3344" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1100" height="280" fill="url(#bg)"/>
+  <rect width="1100" height="280" fill="url(#grid)" opacity="0.45"/>
+
+  <!-- frame -->
+  <rect x="18" y="18" width="1064" height="244" fill="none" stroke="#2a3344" stroke-width="1.5"/>
+  <rect x="28" y="28" width="1044" height="224" fill="none" stroke="#d4b48a" stroke-opacity="0.35" stroke-width="1"/>
+
+  <!-- corner ticks -->
+  <path d="M28 48V28H48" fill="none" stroke="#8eb8c4" stroke-width="2"/>
+  <path d="M1072 48V28H1052" fill="none" stroke="#8eb8c4" stroke-width="2"/>
+  <path d="M28 232V252H48" fill="none" stroke="#8eb8c4" stroke-width="2"/>
+  <path d="M1072 232V252H1052" fill="none" stroke="#8eb8c4" stroke-width="2"/>
+
+  <!-- scanning beam -->
+  <rect x="-220" y="28" width="220" height="224" fill="url(#beam)" opacity="0.22">
+    <animate attributeName="x" values="-220;1100" dur="4.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="56" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#8eb8c4" letter-spacing="3">ASC // SHIP LOG</text>
+  <circle cx="980" cy="66" r="5" fill="#7ec8b8">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="995" y="71" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#7ec8b8">LIVE</text>
+
+  <text x="56" y="140" font-family="Georgia, Times New Roman, serif" font-size="54" font-weight="700" fill="#f2f0ea">ALLEN CHRISTIAN</text>
+  <text x="56" y="178" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" fill="#d4b48a">AI and Data Science Engineer</text>
+  <text x="56" y="210" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" fill="#c8c4bb">APIs  |  Agents  |  Products that ship</text>
+
+  <text x="56" y="245" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#6f7888">RELEASE CHANNEL: production  ·  TARGET: Machine Learning Engineer</text>
+</svg>
