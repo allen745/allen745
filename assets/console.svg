@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="390" viewBox="0 0 1100 390" role="img" aria-label="Animated ship console">
+  <defs>
+    <linearGradient id="top" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8eb8c4"/>
+      <stop offset="100%" stop-color="#d4b48a"/>
+    </linearGradient>
+    <clipPath id="screen">
+      <rect x="20" y="54" width="1060" height="316" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1100" height="390" rx="16" fill="#06080d"/>
+  <rect x="0" y="0" width="1100" height="44" rx="16" fill="#10151f"/>
+  <rect x="0" y="28" width="1100" height="16" fill="#10151f"/>
+  <circle cx="28" cy="22" r="6" fill="#d4b48a"/>
+  <circle cx="50" cy="22" r="6" fill="#8eb8c4"/>
+  <circle cx="72" cy="22" r="6" fill="#7ec8b8"/>
+  <text x="550" y="27" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#6f7888">asc@ship-log -- release</text>
+  <rect x="0" y="44" width="1100" height="3" fill="url(#top)"/>
+
+  <rect x="14" y="50" width="1072" height="326" rx="12" fill="#04060a" stroke="#2a3344"/>
+
+  <g clip-path="url(#screen)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <rect x="20" y="-60" width="1060" height="50" fill="#d4b48a" opacity="0.05">
+      <animate attributeName="y" values="-60;380" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="40" y="90" font-size="16" fill="#7ec8b8">
+      <tspan>$ </tspan><tspan fill="#d4b48a">whoami</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.04;0.08" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="40" y="120" font-size="15" fill="#f2f0ea">
+      <tspan fill="#8eb8c4">&gt;</tspan>
+      <tspan dx="8">Allen Christian - AI and Data Science Engineer</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.10;0.14" dur="12s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="40" y="160" font-size="16" fill="#7ec8b8">
+      <tspan>$ </tspan><tspan fill="#d4b48a">cat mission.md</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.20;0.24" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="40" y="190" font-size="15" fill="#f2f0ea">
+      <tspan fill="#8eb8c4">&gt;</tspan>
+      <tspan dx="8">I ship FastAPI backends, LLM agents, and production tools.</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.28;0.32" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="40" y="218" font-size="15" fill="#f2f0ea">
+      <tspan fill="#8eb8c4">&gt;</tspan>
+      <tspan dx="8">Built to ship, not just to show.</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.34;0.38" dur="12s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="40" y="258" font-size="16" fill="#7ec8b8">
+      <tspan>$ </tspan><tspan fill="#d4b48a">status --systems</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.44;0.48" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="52" y="290" font-size="15" fill="#7ec8b8">
+      <tspan>[OK]</tspan><tspan dx="10" fill="#f2f0ea">Design patent 450815-001</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.52;0.56" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="52" y="318" font-size="15" fill="#7ec8b8">
+      <tspan>[OK]</tspan><tspan dx="10" fill="#f2f0ea">DevMind + Agent live</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.58;0.62" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="52" y="346" font-size="15" fill="#d4b48a">
+      <tspan>[WIP]</tspan><tspan dx="10" fill="#f2f0ea">CA SaaS + Vertex in progress</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0.4;1" keyTimes="0;0.64;0.68;0.85;0.92;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+
+    <rect x="150" y="76" width="9" height="16" fill="#d4b48a">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
