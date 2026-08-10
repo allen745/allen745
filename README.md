@@ -1,27 +1,29 @@
 <div align="center">
 
-<!-- ASC // SHIP LOG — self-hosted SVGs only (zero broken XML) -->
-<img src="./assets/masthead.svg" width="100%" alt="Allen Christian - ASC Ship Log"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=22&duration=3000&pause=800&color=D4B48A&center=true&vCenter=true&width=760&height=42&lines=Built+to+ship%2C+not+just+to+show.;FastAPI+backends+%7C+LLM+agents+%7C+real+workflows;Design+patent+%7C+live+products;Next+role%3A+Machine+Learning+Engineer" alt="Typing animation"/>
+<img src="./assets/banner.svg" width="100%" alt="ASC Field - Allen Christian"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=allen745&style=for-the-badge&color=8eb8c4&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-d4b48a?style=for-the-badge&labelColor=06080d" alt="Status"/>
-<img src="https://img.shields.io/badge/FOCUS-APIs%20%7C%20Agents%20%7C%20Ship-8eb8c4?style=for-the-badge&labelColor=06080d" alt="Focus"/>
-<img src="https://img.shields.io/badge/PORTFOLIO-LIVE-7ec8b8?style=for-the-badge&labelColor=06080d" alt="Portfolio"/>
+<!-- The thing almost nobody puts on a profile: a live constellation of your systems -->
+<img src="./assets/field-map.svg" width="100%" alt="Allen Christian field map - neural constellation of shipped systems"/>
 
-<br/><br/>
+<br/>
 
-<img src="./assets/status-hud.svg" width="100%" alt="Live status HUD"/>
+<img src="./assets/waveform.svg" width="100%" alt="Live signal waveform"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=allen745&style=flat-square&color=5eead4&label=SIGNAL+HITS" alt="Profile views"/>
+<a href="https://portfolio-demo-tan-six.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-e0a86a?style=flat-square&labelColor=03050a" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/allen-christian-708545409/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-5eead4?style=flat-square&labelColor=03050a" alt="LinkedIn"/></a>
+<a href="mailto:allenschristian07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-OPEN-94a3b8?style=flat-square&labelColor=03050a" alt="Email"/></a>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="./assets/console.svg" width="100%" alt="Animated ship console"/>
+<img src="./assets/decoder.svg" width="100%" alt="Signal decoder stream"/>
 </div>
 
 <br/>
@@ -32,198 +34,75 @@
 
 <br/>
 
-## Dossier
+## Node graph
+
+Every blip on the field map is real work — from the [portfolio](https://portfolio-demo-tan-six.vercel.app/).
+
+| Node | Class | Link |
+|:--|:--|:--|
+| **DevMind AI** | LIVE PRODUCT | [Open](https://devmind-ai-topaz.vercel.app/) · [Repo](https://github.com/allen745/devmind-ai) |
+| **DevMind Agent** | REASONING | [Open](https://devmind-agent.onrender.com/) · [Repo](https://github.com/allen745/DEVMIND-AGENT) |
+| **CA SaaS** | B2B · WIP | [Repo](https://github.com/allen745/ca-saas) |
+| **Vertex** | CAREER API · WIP | [API](https://vertex-api-allen07.azurewebsites.net/) |
+| **Patent 450815-001** | GOI DESIGN | [Repo](https://github.com/allen745/power-strike-) |
+| **ML / DL Lab** | LEARNING | [ML](https://github.com/allen745/ml-models-portfolio) · [DL](https://github.com/allen745/dl-models-portfolio) |
+| **Portfolio** | CINEMA | [Live](https://portfolio-demo-tan-six.vercel.app/) · [Source](https://github.com/allen745/portfolio-demo-) |
+
+<br/>
+
+<details>
+<summary><b>Decode a node</b></summary>
+
+<br/>
+
+**DevMind** — AI developer toolkit: review, bugs, docs, complexity, commits. FastAPI + Groq + React.  
+**Agent** — multi-step repo intelligence for Microsoft Agents League. LLaMA + Foundry IQ.  
+**CA SaaS** — platform for practicing CAs: clients, document AI, notices, anomaly flags.  
+**Vertex** — career intelligence API on Azure.  
+**Patent** — spring-loaded piezoelectric striker, Govt of India design patent.  
+**Lab** — classical ML + deep learning practice series (honest learning depth, not fake prod).
+
+</details>
+
+<br/>
 
 <div align="center">
-<img src="./assets/dossier.svg" width="100%" alt="Engineer dossier"/>
+<img src="./assets/rail.svg" width="100%" alt=""/>
+</div>
+
+<br/>
+
+## Frequency stack
+
+```text
+[delivery]   Git · GitHub · Vercel · ship end-to-end
+[agents]     Groq · LLaMA · Foundry IQ · reasoning loops
+[backend]    FastAPI · REST · Pydantic · JWT · PostgreSQL
+[learning]   scikit-learn · TensorFlow · Keras · CV
+[core]       Python · NumPy · Pandas · SQL
+```
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,tensorflow,js,git,github,vercel,linux&theme=dark" alt="stack icons"/>
 </div>
 
 <br/>
 
 <div align="center">
+<img src="./assets/rail.svg" width="100%" alt=""/>
+</div>
 
-| Signal | Detail |
+<br/>
+
+## Auth markers
+
+| Marker | Proof |
 |:--|:--|
-| **Now** | Shipping **DevMind**, building **CA SaaS**, iterating **Vertex**, and keeping the [portfolio](https://portfolio-demo-tan-six.vercel.app/) sharp |
-| **Always** | Clean APIs · measurable results · end-to-end delivery |
-| **North star** | Machine Learning Engineer who ships systems people actually use |
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="./assets/rail.svg" width="100%" alt=""/>
-</div>
-
-<br/>
-
-## Systems shipped
-
-Production-shaped work from the [portfolio](https://portfolio-demo-tan-six.vercel.app/) — products, a patent, and honest learning series.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [DevMind AI](https://devmind-ai-topaz.vercel.app/)
-`LIVE PRODUCT`
-
-AI developer toolkit — code review, bug hunt, docs, complexity, commit messages. Designed, deployed, maintained end to end.
-
-`FastAPI · Groq · React · Vercel`
-
-[Live](https://devmind-ai-topaz.vercel.app/) · [GitHub](https://github.com/allen745/devmind-ai)
-
-</td>
-<td width="50%" valign="top">
-
-### [DevMind Agent](https://devmind-agent.onrender.com/)
-`REASONING AGENT`
-
-Multi-step repo intelligence agent — fetch, analyze, cross-file patterns, Foundry IQ synthesis. Microsoft Agents League build.
-
-`FastAPI · LLaMA 3.3 · Foundry IQ`
-
-[Live](https://devmind-agent.onrender.com/) · [GitHub](https://github.com/allen745/DEVMIND-AGENT)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [CA SaaS](https://github.com/allen745/ca-saas)
-`B2B · IN PROGRESS`
-
-Platform for practicing Chartered Accountants — clients, AI document reading, notice drafting, anomaly flags.
-
-`FastAPI · PostgreSQL · React · Groq`
-
-[GitHub](https://github.com/allen745/ca-saas)
-
-</td>
-<td width="50%" valign="top">
-
-### [Vertex](https://vertex-api-allen07.azurewebsites.net/)
-`CAREER INTELLIGENCE · WIP`
-
-Career intelligence API surface — structured signals for roles, skills, and next moves.
-
-`API · Azure`
-
-[API](https://vertex-api-allen07.azurewebsites.net/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Design Patent
-`GOVERNMENT OF INDIA`
-
-Spring-loaded piezoelectric striker — ambient energy harvesting, built as a physical exhibit.
-
-Design No. `450815-001`
-
-[Repo](https://github.com/allen745/power-strike-)
-
-</td>
-<td width="50%" valign="top">
-
-### TrackBot · AutoSeed
-`ROBOTICS · IoT`
-
-Warehouse AGV pathfinding (TrackBot) and precision agriculture seeding bot (AutoSeed) — sensors, control, field constraints.
-
-`ESP32 · OpenMV · Arduino`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [ML Models Portfolio](https://github.com/allen745/ml-models-portfolio)
-`LEARNING SERIES`
-
-Classical ML practice — classification, regression, fraud, health, NLP baselines. Grouped honestly as learning depth.
-
-`Python · scikit-learn · Pandas`
-
-</td>
-<td width="50%" valign="top">
-
-### [DL Models Portfolio](https://github.com/allen745/dl-models-portfolio)
-`LEARNING SERIES`
-
-Deep learning practice — TensorFlow / Keras, CNNs, computer vision pipelines.
-
-`TensorFlow · Keras · CV`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**Full case-study surface:** [portfolio-demo-tan-six.vercel.app](https://portfolio-demo-tan-six.vercel.app/) · source: [allen745/portfolio-demo-](https://github.com/allen745/portfolio-demo-)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="./assets/rail.svg" width="100%" alt=""/>
-</div>
-
-<br/>
-
-## Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,tensorflow,js,git,github,vercel,linux,docker&theme=dark" alt="skills"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-![Groq](https://img.shields.io/badge/Groq-1a2030?style=for-the-badge&labelColor=06080d&color=d4b48a)
-![Llama](https://img.shields.io/badge/Llama_3-1a2030?style=for-the-badge&labelColor=06080d&color=8eb8c4)
-![Foundry](https://img.shields.io/badge/MS_Foundry_IQ-1a2030?style=for-the-badge&labelColor=06080d&color=7ec8b8)
-![Keras](https://img.shields.io/badge/Keras-1a2030?style=for-the-badge&labelColor=06080d&color=d4b48a)
-![sklearn](https://img.shields.io/badge/scikit--learn-1a2030?style=for-the-badge&labelColor=06080d&color=8eb8c4)
-![NumPy](https://img.shields.io/badge/NumPy-1a2030?style=for-the-badge&labelColor=06080d&color=7ec8b8)
-![Pandas](https://img.shields.io/badge/Pandas-1a2030?style=for-the-badge&labelColor=06080d&color=d4b48a)
-
-</div>
-
-<br/>
-
-| Layer | Tools |
-|:--|:--|
-| **Backend APIs** | FastAPI · REST · Pydantic · JWT · PostgreSQL |
-| **LLMs and agents** | Groq · LLaMA · Foundry IQ · reasoning agents |
-| **Classical ML** | Classification · regression · pipelines · EDA |
-| **Deep learning** | TensorFlow · Keras · CNNs · computer vision |
-| **Delivery** | Git · GitHub · Vercel · end-to-end shipping |
-
-<br/>
-
-<div align="center">
-<img src="./assets/rail.svg" width="100%" alt=""/>
-</div>
-
-<br/>
-
-## Proof
-
-| Proof | What |
-|:--|:--|
-| **Patent** | Govt of India Design Patent `450815-001` — piezoelectric striker |
-| **Internship** | Top 5 Performer — InAmigos Foundation (SI85) via Internshala |
-| **National** | TCS Rural IT Quiz · Techfest AIKYAM SPEC Innovation Award |
-| **Competition** | HackZero '26 CTF (OWASP VIT Bhopal) · Chatkaro model presentation |
-| **Training** | Structured AI/ML program — MY JOB GROW |
+| Patent | Govt of India Design Patent `450815-001` |
+| Internship | Top 5 — InAmigos Foundation (SI85) |
+| National | TCS Rural IT Quiz · AIKYAM SPEC Award |
+| CTF | HackZero '26 — OWASP VIT Bhopal |
+| Education | B.Tech AI and Data Science — ADIT, CVM University |
 
 <br/>
 
@@ -236,32 +115,16 @@ Deep learning practice — TensorFlow / Keras, CNNs, computer vision pipelines.
 ## Telemetry
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=allen745&show_icons=true&hide_border=true&bg_color=06080d&title_color=d4b48a&icon_color=8eb8c4&text_color=f2f0ea&ring_color=d4b48a&cache_seconds=86400" alt="GitHub stats"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=allen745&hide_border=true&background=06080d&ring=d4b48a&fire=8eb8c4&currStreakLabel=d4b48a&sideNums=d4b48a&sideLabels=f2f0ea&dates=8B949E" alt="GitHub streak"/>
+<img height="160" src="https://github-readme-stats.shion.dev/api?username=allen745&show_icons=true&hide_border=true&bg_color=03050a&title_color=e0a86a&icon_color=5eead4&text_color=f8fafc&ring_color=5eead4&cache_seconds=86400" alt="GitHub stats"/>
+<img height="160" src="https://streak-stats.demolab.com/?user=allen745&hide_border=true&background=03050a&ring=5eead4&fire=e0a86a&currStreakLabel=e0a86a&sideNums=e0a86a&sideLabels=f8fafc&dates=64748b" alt="streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=allen745&layout=compact&hide_border=true&bg_color=06080d&title_color=d4b48a&text_color=f2f0ea&cache_seconds=86400" alt="Top languages"/>
-<img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=allen745&bg_color=06080d&color=d4b48a&line=8eb8c4&point=f2f0ea&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
+<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=allen745&layout=compact&hide_border=true&bg_color=03050a&title_color=e0a86a&text_color=f8fafc&cache_seconds=86400" alt="languages"/>
+<img alt="snake" height="160" src="https://cdn.jsdelivr.net/gh/allen745/allen745@output/github-contribution-grid-snake-dark.svg"/>
 </div>
-
-<br/>
-
-### Contribution snake
-
-<div align="center">
-  <img alt="snake animation" src="https://cdn.jsdelivr.net/gh/allen745/allen745@output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-<details>
-<summary><b>Snake blank? Refresh once</b></summary>
-
-1. Actions → **Generate Snake** → Run workflow  
-2. Hard-refresh the profile after ~1 minute  
-
-</details>
 
 <br/>
 
@@ -271,24 +134,19 @@ Deep learning practice — TensorFlow / Keras, CNNs, computer vision pipelines.
 
 <br/>
 
-## Connect
+## Open channel
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-06080d?style=for-the-badge&logo=vercel&logoColor=d4b48a)](https://portfolio-demo-tan-six.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-06080d?style=for-the-badge&logo=linkedin&logoColor=8eb8c4)](https://www.linkedin.com/in/allen-christian-708545409/)
-[![Email](https://img.shields.io/badge/EMAIL-06080d?style=for-the-badge&logo=gmail&logoColor=d4b48a)](mailto:allenschristian07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-allen745-06080d?style=for-the-badge&logo=github&logoColor=f2f0ea)](https://github.com/allen745)
-[![Source](https://img.shields.io/badge/PORTFOLIO_REPO-06080d?style=for-the-badge&logo=github&logoColor=7ec8b8)](https://github.com/allen745/portfolio-demo-)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-03050a?style=for-the-badge&logo=vercel&logoColor=e0a86a)](https://portfolio-demo-tan-six.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-03050a?style=for-the-badge&logo=linkedin&logoColor=5eead4)](https://www.linkedin.com/in/allen-christian-708545409/)
+[![Email](https://img.shields.io/badge/EMAIL-03050a?style=for-the-badge&logo=gmail&logoColor=e0a86a)](mailto:allenschristian07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-allen745-03050a?style=for-the-badge&logo=github&logoColor=f8fafc)](https://github.com/allen745)
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="./assets/footer-bar.svg" width="100%" alt="Built to ship, not just to show"/>
+<img src="./assets/footer-bar.svg" width="100%" alt="End of transmission"/>
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&size=14&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=560&lines=Thanks+for+stopping+by.;Let's+build+something+that+ships." alt="footer typing"/>
-</p>

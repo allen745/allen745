@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-label="Signal decoder">
+  <rect width="1100" height="300" rx="14" fill="#03050a" stroke="#1e293b" stroke-width="1.5"/>
+  <rect x="0" y="0" width="1100" height="42" rx="14" fill="#0b1220"/>
+  <rect x="0" y="28" width="1100" height="14" fill="#0b1220"/>
+  <text x="24" y="27" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#5eead4">signal.decode --live</text>
+  <text x="1076" y="27" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#e0a86a">PKT/OK</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">
+    <text x="28" y="78" fill="#475569">001</text>
+    <text x="70" y="78" fill="#5eead4">RECV</text>
+    <text x="130" y="78" fill="#f8fafc">identity.allen = "Allen Christian"</text>
+
+    <text x="28" y="110" fill="#475569" fill-opacity="0">002<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="0.4s" fill="freeze"/></text>
+    <text x="70" y="110" fill="#5eead4" fill-opacity="0">RECV<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="0.4s" fill="freeze"/></text>
+    <text x="130" y="110" fill="#f8fafc" fill-opacity="0">role = "AI and Data Science Engineer"<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="0.4s" fill="freeze"/></text>
+
+    <text x="28" y="142" fill="#475569" fill-opacity="0">003<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="0.7s" fill="freeze"/></text>
+    <text x="70" y="142" fill="#e0a86a" fill-opacity="0">AUTH<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="0.7s" fill="freeze"/></text>
+    <text x="130" y="142" fill="#f8fafc" fill-opacity="0">patent = "GOI 450815-001"<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="0.7s" fill="freeze"/></text>
+
+    <text x="28" y="174" fill="#475569" fill-opacity="0">004<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="1.0s" fill="freeze"/></text>
+    <text x="70" y="174" fill="#5eead4" fill-opacity="0">RECV<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="1.0s" fill="freeze"/></text>
+    <text x="130" y="174" fill="#f8fafc" fill-opacity="0">stack = FastAPI | Agents | ML | React | Postgres<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="1.0s" fill="freeze"/></text>
+
+    <text x="28" y="206" fill="#475569" fill-opacity="0">005<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="1.3s" fill="freeze"/></text>
+    <text x="70" y="206" fill="#5eead4" fill-opacity="0">RECV<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="1.3s" fill="freeze"/></text>
+    <text x="130" y="206" fill="#f8fafc" fill-opacity="0">mission = "Built to ship, not just to show."<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="1.3s" fill="freeze"/></text>
+
+    <text x="28" y="238" fill="#475569" fill-opacity="0">006<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="1.6s" fill="freeze"/></text>
+    <text x="70" y="238" fill="#e0a86a" fill-opacity="0">ROUTE<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="1.6s" fill="freeze"/></text>
+    <text x="130" y="238" fill="#f8fafc" fill-opacity="0">next = Machine Learning Engineer<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="1.6s" fill="freeze"/></text>
+
+    <text x="28" y="270" fill="#475569" fill-opacity="0">007<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="1.9s" fill="freeze"/></text>
+    <text x="70" y="270" fill="#5eead4" fill-opacity="0">PING<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="1.9s" fill="freeze"/></text>
+    <text x="130" y="270" fill="#f8fafc" fill-opacity="0">contact = allenschristian07@gmail.com<animate attributeName="fill-opacity" values="0;1" dur="0.01s" begin="1.9s" fill="freeze"/></text>
+  </g>
+
+  <rect x="520" y="282" width="8" height="14" fill="#5eead4">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
