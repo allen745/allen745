@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="90" viewBox="0 0 1100 90" role="img" aria-label="Signal waveform">
+  <rect width="1100" height="90" rx="10" fill="#03050a" stroke="#1e293b"/>
+  <text x="20" y="22" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#64748b">OSC / LIVE</text>
+  <polyline fill="none" stroke="#5eead4" stroke-width="2" stroke-linejoin="round"
+    points="20,55 60,55 80,30 100,70 120,40 140,60 160,35 180,65 200,50 240,50 260,25 280,75 300,45 320,60 340,35 360,55 400,55 420,28 440,72 460,42 480,58 500,33 520,62 540,50 580,50 600,22 620,78 640,40 660,65 680,30 700,55 740,55 760,27 780,70 800,45 820,60 840,35 860,55 900,55 920,30 940,68 960,42 980,58 1000,38 1020,55 1080,55">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.4s" repeatCount="indefinite"/>
+  </polyline>
+  <line x1="20" y1="55" x2="1080" y2="55" stroke="#1e293b" stroke-width="1"/>
+  <rect x="20" y="40" width="40" height="30" fill="#e0a86a" opacity="0.15">
+    <animate attributeName="x" values="20;1040" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
